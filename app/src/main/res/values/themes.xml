@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ReminderApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#6200EE</item>
+        <item name="android:navigationBarColor">#F6F0FF</item>
+        <item name="android:windowBackground">#6200EE</item>
+    </style>
+</resources>
